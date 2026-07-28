@@ -1,6 +1,6 @@
 {
-  "version": "1.0.4",
-  "apkUrl": "https://github.com/blackstardigitalstudio/actividades-peque-releases/releases/download/v1.0.4/Actividades-con-tu-peque.apk",
+  "version": "1.0.5",
+  "apkUrl": "https://github.com/blackstardigitalstudio/actividades-peque-releases/releases/download/v1.0.5/Actividades-con-tu-peque.apk",
   "pageUrl": "https://github.com/blackstardigitalstudio/actividades-peque-releases/releases/latest",
-  "notes": "40 actividades: 14 nuevas, una por tarjeta."
+  "notes": "Banner discreto no personalizado (solo en Explora)."
 }
