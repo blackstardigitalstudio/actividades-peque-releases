@@ -1,6 +1,6 @@
 {
-  "version": "1.0.16",
-  "apkUrl": "https://github.com/blackstardigitalstudio/actividades-peque-releases/releases/download/v1.0.16/Actividades-con-tu-peque.apk",
+  "version": "1.0.17",
+  "apkUrl": "https://github.com/blackstardigitalstudio/actividades-peque-releases/releases/download/v1.0.17/Actividades-con-tu-peque.apk",
   "pageUrl": "https://github.com/blackstardigitalstudio/actividades-peque-releases/releases/latest",
-  "notes": "Selector de idioma más rápido + 50 vídeos italianos nuevos (282 actividades)."
+  "notes": "Versión conforme a Google Play (sin permisos innecesarios)."
 }
